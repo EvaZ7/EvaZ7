@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 :seedling: My name is Eva and I'm a student who is currently learning more about the tech side of multimedia design. Mostly front-end and a little back-end. Pretty new here.
 
-:thought_balloon: Ask me about... /play crickets
+/play crickets :thought_balloon: Ask me about... 
