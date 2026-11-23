@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:telescope: I'm currently working on building a feature for a matching app about breakfast a.k.a my Blok-tech repository.
+:telescope: I'm currently working on building my new portfolio with lots of new projects!
 
-:seedling: My name is Eva and I'm a student who is currently learning more about the tech side of multimedia design. Mostly front-end and a little back-end. Pretty new here.
+:seedling: My name is Eva, and I'm a front-end developer, UX/UI designer, and graphic designer with a love for CSS🎨. I have a full-stack background and consider myself more of a web designer; I just design right about everything on the web. My GitHub used to be for my uni, but now it is more for cool side projects. 🤖
 
 <!--:thought_balloon: Ask me about...-->
